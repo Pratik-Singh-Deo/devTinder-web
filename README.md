@@ -28,7 +28,8 @@
 - Build the user card on feed
 - Edit profile feature
 - Show Toast message on save of profile
-- See all my connections
+- New Page - See all my connections
+- New Page - See all my Connection Requests
 
 # Body
 
