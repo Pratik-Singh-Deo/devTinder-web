@@ -31,6 +31,12 @@
 - New Page - See all my connections
 - New Page - See all my Connection Requests
 
+# Remaining:
+
+- Send/ignore the user card from Feed
+- Signup New User
+- E2ETesting
+
 # Body
 
 Navbar
