@@ -30,6 +30,8 @@
 - Show Toast message on save of profile
 - New Page - See all my connections
 - New Page - See all my Connection Requests
+- Feature - Accept/Reject connection requests
+- Send/Ignore the user card from the feed
 
 # Remaining:
 
